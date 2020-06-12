@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/atlantis/static/css/main.b4f09642.chunk.css",
+    "main.js": "/atlantis/static/js/main.c49dda37.chunk.js",
+    "main.js.map": "/atlantis/static/js/main.c49dda37.chunk.js.map",
+    "runtime-main.js": "/atlantis/static/js/runtime-main.54baffd1.js",
+    "runtime-main.js.map": "/atlantis/static/js/runtime-main.54baffd1.js.map",
+    "static/js/2.6b32a7d5.chunk.js": "/atlantis/static/js/2.6b32a7d5.chunk.js",
+    "static/js/2.6b32a7d5.chunk.js.map": "/atlantis/static/js/2.6b32a7d5.chunk.js.map",
+    "index.html": "/atlantis/index.html",
+    "precache-manifest.eb288144e8067f89eaabb8bd58cdf8fb.js": "/atlantis/precache-manifest.eb288144e8067f89eaabb8bd58cdf8fb.js",
+    "service-worker.js": "/atlantis/service-worker.js",
+    "static/css/main.b4f09642.chunk.css.map": "/atlantis/static/css/main.b4f09642.chunk.css.map",
+    "static/js/2.6b32a7d5.chunk.js.LICENSE.txt": "/atlantis/static/js/2.6b32a7d5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.54baffd1.js",
+    "static/js/2.6b32a7d5.chunk.js",
+    "static/css/main.b4f09642.chunk.css",
+    "static/js/main.c49dda37.chunk.js"
+  ]
+}
